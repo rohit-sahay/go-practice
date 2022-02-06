@@ -1,2 +1,2 @@
 # go-practice
-just for random Go stuff
+first look at go
